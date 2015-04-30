@@ -3,7 +3,8 @@
 using namespace std;
 int main()
 {
-Num n(35);
+std::Num n(35);
 cout << n.getNum() << endl;
+std::n.disp(n);
 return 0;
 }

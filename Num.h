@@ -1,8 +1,10 @@
 class Num
 {
 private:
-int num;
+
 public:
+int num;
 Num(int n);
 int getNum();
+void disp(Num a);
 };
